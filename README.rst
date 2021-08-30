@@ -1,4 +1,4 @@
-PyDBota
+PyDBots
 ==========
 
 .. image:: https://discord.com/api/guilds/881799755339010049/embed.png
