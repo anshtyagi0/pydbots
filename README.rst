@@ -108,6 +108,6 @@ You can find more examples in the examples directory.
 Links
 ------
 
-- `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
+- `Documentation <https://pydbots.readthedocs.io/en/latest/index.html>`_
 - `Official Discord Server <https://discord.gg/wbQkNfEjdP>`_
 - `Discord API <https://discord.gg/discord-api>`_
